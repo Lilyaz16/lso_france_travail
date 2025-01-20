@@ -28,4 +28,4 @@ jobs:
 
       - name: Run Streamlit App (optionnel)
         run: |
-          streamlit run app.py  # Si vous souhaitez tester l'application dans le workflow
+          streamlit run FT_Streamlit.py  # Si vous souhaitez tester l'application dans le workflow
